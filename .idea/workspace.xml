@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a397a1d6-0019-4985-8876-33be59421775" name="Changes" comment="" />
+    <list default="true" id="a397a1d6-0019-4985-8876-33be59421775" name="Changes" comment="Ovo je drugi commit i push. Saljem tekst fajl.">
+      <change afterPath="$PROJECT_DIR$/src/PrvaKlasa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2F0H98fPnbmgxuehYEmr2kpJK9i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,6 +32,37 @@
       <option name="presentableId" value="Default" />
       <updated>1663621928591</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ovo je prvi commit i push. Saljem &quot;Main&quot; klasu i sve fajlove iz projekta.">
+      <created>1663621999990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663621999990</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ovo je drugi commit i push. Saljem tekst fajl.">
+      <created>1663622234205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663622234205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ovo je prvi commit i push. Saljem &quot;Main&quot; klasu i sve fajlove iz projekta." />
+    <MESSAGE value="Ovo je drugi commit i push. Saljem tekst fajl." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ovo je drugi commit i push. Saljem tekst fajl." />
   </component>
 </project>
