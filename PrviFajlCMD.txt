@@ -1,0 +1,1 @@
+Sada sam nakon prvog i drugog, a pre pusha treceg, uradio izmenu u ovom prvom fajlu dodavsi ovaj tekst.

@@ -1,0 +1,1 @@
+Ovaj treci fajl saljem sa tekstom i dodao sam tekst naknadno u prvom i drugom fajlu.
